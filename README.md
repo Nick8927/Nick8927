@@ -29,7 +29,6 @@
 <p align="center">
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick8927&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nick8927&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick8927&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick8927&theme=radical" />
 </p>
@@ -92,7 +91,6 @@
 <p align="center">
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick8927&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nick8927&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick8927&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick8927&theme=tokyonight" />
 </p>
