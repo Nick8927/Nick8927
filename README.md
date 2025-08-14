@@ -32,21 +32,24 @@
 
 ---
 
-## 🧠 Skills & Tools
+## 🔧 Technologies & Tools
 
-### 💾 Databases & Stack
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat-square&logo=fastapi&logoColor=white&color=009688)
+![](https://img.shields.io/badge/Framework-DRF-informational?style=flat-square&logo=django&logoColor=white&color=ff1709)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Message_Broker-Kafka-informational?style=flat-square&logo=apache-kafka&logoColor=white&color=231F20)
+![](https://img.shields.io/badge/Message_Broker-RabbitMQ-informational?style=flat-square&logo=rabbitmq&logoColor=white&color=FF6600)
+![](https://img.shields.io/badge/Web_Server-Nginx-informational?style=flat-square&logo=nginx&logoColor=white&color=009639)
 
-**Stack**: Python, Django/FastAPI/DRF, Docker, Kafka/RabbitMQ, Nginx, PostgreSQL, MySQL, Redis, Elasticsearch, Postman
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Search-ElasticSearch-informational?style=flat-square&logo=elasticsearch&logoColor=white&color=005571)
+
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=FF6C37)
 
 ---
 
@@ -94,24 +97,26 @@
 
 ---
 
-## 🧠 Навыки и инструменты_
+## 🔧 Навыки и инструменты
 
-### 💾 Базы данных и стек
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat-square&logo=fastapi&logoColor=white&color=009688)
+![](https://img.shields.io/badge/Framework-DRF-informational?style=flat-square&logo=django&logoColor=white&color=ff1709)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Message_Broker-Kafka-informational?style=flat-square&logo=apache-kafka&logoColor=white&color=231F20)
+![](https://img.shields.io/badge/Message_Broker-RabbitMQ-informational?style=flat-square&logo=rabbitmq&logoColor=white&color=FF6600)
+![](https://img.shields.io/badge/Web_Server-Nginx-informational?style=flat-square&logo=nginx&logoColor=white&color=009639)
 
-**Стек**: Python, Django/FastAPI/DRF, Docker, Kafka/RabbitMQ, Nginx, PostgreSQL, MySQL, Redis, Elasticsearch, Postman
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Search-ElasticSearch-informational?style=flat-square&logo=elasticsearch&logoColor=white&color=005571)
+
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=FF6C37)
 
 ---
-
 
 ## 🛤️ Мой путь
 
@@ -124,4 +129,4 @@
 
 ## 📫 Контакты
 
-- 💬 Telegram: [@Frdm_Nick](https://t.me/frdm_nick)
+- 💬 Telegram: [@Frdm_Nick](https://t.me/frdm_nick) 
